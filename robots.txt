@@ -1,1 +1,11 @@
-sitemap: https://www.coletadeexameemcasa.com.br/sitemap.xml
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.coletadeexameemcasa.com.br/sitemap.xml
+
+# Block common non-content paths
+Disallow: /css/
+Disallow: /js/
+Disallow: /imgs/
+
