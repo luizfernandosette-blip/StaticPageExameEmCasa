@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.coletadeexameemcasa.com.br/sitemap.xml
+Sitemap: https://www.exameemcasasabara.com.br/sitemap.xml
 
 # Block common non-content paths
 Disallow: /css/
