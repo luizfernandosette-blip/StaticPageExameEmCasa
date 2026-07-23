@@ -4,8 +4,7 @@ Allow: /
 # Sitemap
 Sitemap: https://www.exameemcasasabara.com.br/sitemap.xml
 
-# Block common non-content paths
+# Block common non-content paths (imgs must remain accessible for Google Images and Open Graph)
 Disallow: /css/
 Disallow: /js/
-Disallow: /imgs/
 
